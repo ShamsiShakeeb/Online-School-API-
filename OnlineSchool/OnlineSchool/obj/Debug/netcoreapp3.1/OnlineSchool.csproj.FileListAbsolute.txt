@@ -263,3 +263,706 @@ D:\DotNetProject\Online School\Backend (.NET CORE API)\OnlineSchool\OnlineSchool
 D:\DotNetProject\Online School\Backend (.NET CORE API)\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.xml
 D:\DotNetProject\Online School\Backend (.NET CORE API)\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.MvcApplicationPartsAssemblyInfo.cs
 D:\DotNetProject\Online School\Backend (.NET CORE API)\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.MvcApplicationPartsAssemblyInfo.cache
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\OnlineSchool.exe
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\OnlineSchool.deps.json
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\OnlineSchool.runtimeconfig.json
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\OnlineSchool.runtimeconfig.dev.json
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\OnlineSchool.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\OnlineSchool.pdb
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\OnlineSchool.xml
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Authorization.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ViewModel.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Authorization.pdb
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ViewModel.pdb
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.csprojAssemblyReference.cache
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.AssemblyInfoInputs.cache
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.AssemblyInfo.cs
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.csproj.CoreCompileInputs.cache
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.MvcApplicationPartsAssemblyInfo.cs
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.MvcApplicationPartsAssemblyInfo.cache
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\staticwebassets\OnlineSchool.StaticWebAssets.Manifest.cache
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\staticwebassets\OnlineSchool.StaticWebAssets.xml
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\scopedcss\bundle\OnlineSchool.styles.css
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.RazorTargetAssemblyInfo.cache
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.csproj.CopyComplete
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.xml
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.pdb
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.genruntimeconfig.cache
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\appsettings.json
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\OnlineSchool.exe
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\OnlineSchool.deps.json
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\OnlineSchool.runtimeconfig.json
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\OnlineSchool.runtimeconfig.dev.json
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\OnlineSchool.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\OnlineSchool.pdb
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\OnlineSchool.xml
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Authorization.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ViewModel.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Authorization.pdb
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ViewModel.pdb
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.csprojAssemblyReference.cache
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.AssemblyInfoInputs.cache
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.AssemblyInfo.cs
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.csproj.CoreCompileInputs.cache
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.MvcApplicationPartsAssemblyInfo.cs
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.MvcApplicationPartsAssemblyInfo.cache
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.RazorTargetAssemblyInfo.cache
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.csproj.CopyComplete
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\staticwebassets\OnlineSchool.StaticWebAssets.Manifest.cache
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\staticwebassets\OnlineSchool.StaticWebAssets.xml
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.xml
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.pdb
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.genruntimeconfig.cache
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\web.config
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\web.config
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\OnlineSchool.exe
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\OnlineSchool.deps.json
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\OnlineSchool.runtimeconfig.json
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\OnlineSchool.runtimeconfig.dev.json
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\OnlineSchool.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\OnlineSchool.pdb
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\OnlineSchool.xml
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Authorization.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ViewModel.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Authorization.pdb
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ViewModel.pdb
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.csprojAssemblyReference.cache
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.AssemblyInfoInputs.cache
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.AssemblyInfo.cs
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.csproj.CoreCompileInputs.cache
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.MvcApplicationPartsAssemblyInfo.cs
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.MvcApplicationPartsAssemblyInfo.cache
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\staticwebassets\OnlineSchool.StaticWebAssets.Manifest.cache
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\staticwebassets\OnlineSchool.StaticWebAssets.xml
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\scopedcss\bundle\OnlineSchool.styles.css
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.RazorTargetAssemblyInfo.cache
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.csproj.CopyComplete
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.xml
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.pdb
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.genruntimeconfig.cache
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.xml
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.pdb
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\web.config
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\appsettings.json
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\OnlineSchool.exe
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\OnlineSchool.deps.json
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\OnlineSchool.runtimeconfig.json
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\OnlineSchool.runtimeconfig.dev.json
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\OnlineSchool.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\OnlineSchool.pdb
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\OnlineSchool.xml
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Authorization.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ViewModel.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\Authorization.pdb
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\bin\Debug\netcoreapp3.1\ViewModel.pdb
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.csprojAssemblyReference.cache
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.AssemblyInfoInputs.cache
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.AssemblyInfo.cs
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.csproj.CoreCompileInputs.cache
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.MvcApplicationPartsAssemblyInfo.cs
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.MvcApplicationPartsAssemblyInfo.cache
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.RazorTargetAssemblyInfo.cache
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.csproj.CopyComplete
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\staticwebassets\OnlineSchool.StaticWebAssets.Manifest.cache
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\staticwebassets\OnlineSchool.StaticWebAssets.xml
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\OnlineSchool\obj\Debug\netcoreapp3.1\OnlineSchool.genruntimeconfig.cache

@@ -9,6 +9,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using OnlineSchool.Models;
+using ViewModel;
 
 namespace OnlineSchool.Controllers
 {
@@ -36,12 +37,12 @@ namespace OnlineSchool.Controllers
 
             var course = await _context.Course
                 .Where(x => x.AuthID == Auth_ID)
-                .Select(y => new { y.CID, y.Title, y.Description })
+                .Select(y => new { y.CID, y.Title, y.Description,y.Image_Path })
                 .ToListAsync();
 
             if (course.Count == 0)
             {
-                return Json(new { success = false, error = "NO DATA" });
+                return Json(new { success = false, data = "NO DATA" });
             }
 
             List<Course> courses = new List<Course>();
@@ -54,6 +55,7 @@ namespace OnlineSchool.Controllers
                     CID = course[i].CID,
                     Course_Title = course[i].Title,
                     Course_Description = course[i].Description,
+                    Img_Path = course[i].Image_Path
                 };
                 courses.Add(data);
             }
@@ -83,7 +85,7 @@ namespace OnlineSchool.Controllers
 
             if (ID.Count == 0)
             {
-                return Json(new { success = false, error = "NO DATA" });
+                return Json(new { success = false, data = "NO DATA" });
             }
 
             List<TutorialAndDetails> list = new List<TutorialAndDetails>();
@@ -92,7 +94,7 @@ namespace OnlineSchool.Controllers
             {
                 var Tutorials = await _context.Tutorial
                     .Where(x => x.TID == ID[i].TID)
-                    .Select(y => new { y.Title, y.Description })
+                    .Select(y => new { y.Title, y.Description,y.Video_Path })
                     .FirstOrDefaultAsync();
 
                 var Teacher = await _context.Teacher
@@ -107,6 +109,7 @@ namespace OnlineSchool.Controllers
                     Tutorial_Title = Tutorials.Title,
                     Tutorial_Description = Tutorials.Description,
                     Teacher_Name = Teacher.Name,
+                    Video_Path = Tutorials.Video_Path
                 };
 
                 list.Add(data);
@@ -118,14 +121,27 @@ namespace OnlineSchool.Controllers
         }
         [HeaderAuthorization]
         [Route("Home/WatchTutorial/{TID}/{TeID}")]
-        [HttpGet]
-        public async Task<ActionResult> Watch_Tutorial(int TID, int TeID)
+        [HttpPost]
+        public async Task<ActionResult> Watch_Tutorial(int TID, int TeID , RecognizeUser recognize)
         {
             String NULL;
 
-            String StudentID = (HttpContext.Session.GetString("SID"));
+            String StudentID = null;
 
-            String TeacherID = (HttpContext.Session.GetString("TeID"));
+            String TeacherID = null;
+
+            if (recognize.UID != null && recognize.User != null)
+            {
+                if (recognize.User.Equals("Teacher"))
+                {
+                    TeacherID = recognize.UID;
+                }
+
+                else if (recognize.User.Equals("Student"))
+                {
+                    StudentID = recognize.UID;
+                }
+            }
 
             Boolean student = false;
             Boolean teacher = false;
@@ -148,7 +164,7 @@ namespace OnlineSchool.Controllers
 
             if (Tutorial == null)
             {
-                return BadRequest();
+                return Json(new { success = false});
             }
 
 
@@ -160,7 +176,7 @@ namespace OnlineSchool.Controllers
 
             if (Teacher == null)
             {
-                return BadRequest();
+                return Json(new { success = false});
             }
 
             List<TutorialPage.Student_Comment> sc = new List<TutorialPage.Student_Comment>();
@@ -276,9 +292,10 @@ namespace OnlineSchool.Controllers
                     Sdict.Add(reaction.Likes, x.ToString());
                 }
             }
-
+           
             foreach (var item in Sdict)
             {
+                
                 var eachReact = new TutorialPage.Student_Like
                 {
                     reactionName = item.Key,
@@ -288,8 +305,7 @@ namespace OnlineSchool.Controllers
 
                 ///  Console.WriteLine(item.Key + " = " + item.Value);
             }
-
-
+           
             var TLID = await _context.Teacher_Tutorial_Like
               .Where(x => (x.TID == TID && x.AuthID == Auth_ID))
               .Select(y => new { y.LID, y.TeID }).ToListAsync();
@@ -384,6 +400,8 @@ namespace OnlineSchool.Controllers
 
         public String Course_Description { set; get; }
 
+        public String Img_Path { set; get; }
+
     }
 
     struct TutorialAndDetails
@@ -395,6 +413,8 @@ namespace OnlineSchool.Controllers
         public String Tutorial_Description { set; get; }
 
         public String Teacher_Name { set; get; }
+
+        public String Video_Path { set; get; }
     }
 
     struct TutorialPage

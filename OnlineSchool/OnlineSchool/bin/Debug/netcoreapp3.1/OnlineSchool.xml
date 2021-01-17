@@ -11,7 +11,7 @@
             <param name="admin"></param>
             <returns></returns>
         </member>
-        <member name="M:OnlineSchool.Controllers.AdminController.UnHideVideo(System.Int32)">
+        <member name="M:OnlineSchool.Controllers.AdminController.UnHideVideo(System.Int32,System.Int32)">
             <summary>
              (The Tutorial Video will be unhided on the basis of Tutorial ID)
             </summary>

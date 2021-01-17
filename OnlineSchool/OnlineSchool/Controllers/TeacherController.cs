@@ -18,8 +18,8 @@ using ViewModel;
 namespace OnlineSchool.Controllers
 {
    
-  ////  [ApiController]
-    [Authorize(Roles = "Teacher", AuthenticationSchemes = "Teacher")]
+    // [Route("api/[controller]")]
+  //  [Authorize(Roles = "Teacher", AuthenticationSchemes = "Teacher")]
     public class TeacherController : Controller
     {
 
@@ -36,11 +36,11 @@ namespace OnlineSchool.Controllers
         [Route("Teacher/Registration")]
         [AllowAnonymous]
         [HttpPost]
-        public async Task<ActionResult> Registration(TeacherRegistrationViewModel teacher)
+        public async Task<ActionResult> Registration([FromBody]TeacherRegistrationViewModel teacher)
         {
             if (!ModelState.IsValid)
             {
-                return Json(new { success = false, error = "Input Formate not Staisfy" });
+                return Json(new { success = false, data = "Input Formate not Staisfy" });
             }
             int Auth_ID = Convert.ToInt32(HttpContext.Session.GetString("Subject"));
 
@@ -50,19 +50,26 @@ namespace OnlineSchool.Controllers
 
             if (verify_Email != null)
             {
-                return Json(new { success = false, error = "This Email is Already in USE" });
+                return Json(new { success = false, data = "This Email is Already in USE" });
             }
 
+            byte[] imageBytes = Convert.FromBase64String(teacher.Photo);
+            var stream = new MemoryStream(imageBytes);
+            IFormFile Photo = new FormFile(stream, 0, teacher.Photo.Length, "name", "Teacher_Profile_Picture.jpg");
+
+            byte[] imageBytes1 = Convert.FromBase64String(teacher.CV);
+            var stream1 = new MemoryStream(imageBytes1);
+            IFormFile CV = new FormFile(stream, 0, teacher.CV.Length, "name", "Teacher_CV.pdf");
 
             String UploadFolder = Path.Combine(_hostingEnvironment.WebRootPath, "TeacherProfilePicture");
-            String UniqueFileName = Guid.NewGuid().ToString() + "_" + teacher.Photo.FileName;
+            String UniqueFileName = Guid.NewGuid().ToString() + "_" +  Photo.FileName;
             String FilePath = Path.Combine(UploadFolder, UniqueFileName);
-            teacher.Photo.CopyTo(new FileStream(FilePath, FileMode.Create));
+            Photo.CopyTo(new FileStream(FilePath, FileMode.Create));
 
             String UploadFolderCV = Path.Combine(_hostingEnvironment.WebRootPath, "TeacherCV");
-            String UniqueFileNameCV = Guid.NewGuid().ToString() + "_" + teacher.CV.FileName;
+            String UniqueFileNameCV = Guid.NewGuid().ToString() + "_" + CV.FileName;
             String FilePathCV = Path.Combine(UploadFolderCV, UniqueFileNameCV);
-            teacher.CV.CopyTo(new FileStream(FilePathCV, FileMode.Create));
+            CV.CopyTo(new FileStream(FilePathCV, FileMode.Create));
 
             var Teacher = new Teacher
             {
@@ -87,11 +94,11 @@ namespace OnlineSchool.Controllers
         [AllowAnonymous]
         [HttpPost]
 
-        public async Task<ActionResult> Login(TeacherLoginViewModel teacher)
+        public async Task<ActionResult> Login([FromBody]TeacherLoginViewModel teacher)
         {
             if (!ModelState.IsValid)
             {
-                return Json(new { success = false, error = "Login Failed" });
+                return Json(new { success = false, data = "Login Failed" });
             }
 
             int Auth_ID = Convert.ToInt32(HttpContext.Session.GetString("Subject"));
@@ -101,7 +108,7 @@ namespace OnlineSchool.Controllers
                .FirstOrDefaultAsync();
             if (data == null)
             {
-                return Json(new { success = false, error = "Login Failed" });
+                return Json(new { success = false, data = "Login Failed" });
             }
             else
             {
@@ -123,19 +130,20 @@ namespace OnlineSchool.Controllers
                 HttpContext.Session.SetString("TeID", data.TeID.ToString());
 
 
-                return Json(new { success = true, ReturnURL = "/Teacher/Profile" });
+                return Json(new { success = true, data = "/Teacher/Profile" , userId = data.TeID.ToString() });
 
             }
         }
 
         [HeaderAuthorization]
-        [Route("Teacher/Profile")]
+        [Route("Teacher/Profile/{teid}")]
         [HttpGet]
 
-        public async Task<ActionResult> Profile()
+        public async Task<ActionResult> Profile(int teid)
         {
             int Auth_ID = Convert.ToInt32(HttpContext.Session.GetString("Subject"));
-            int TeID = Convert.ToInt32(HttpContext.Session.GetString("TeID"));
+            // int TeID = Convert.ToInt32(HttpContext.Session.GetString("TeID"));
+            int TeID = teid;
 
             var value = await _context.Teacher
               .Where(x => (x.TeID == TeID && x.AuthID == Auth_ID))
@@ -368,12 +376,24 @@ namespace OnlineSchool.Controllers
 
 
         [HeaderAuthorization]
-        [Route("Teacher/UploadTutorial/{CID}")]
+        [Route("Teacher/UploadTutorial/{cid}")]
+        [RequestFormLimits(MultipartBodyLengthLimit = 209715200)]
+        [RequestSizeLimit(209715200)]
         [HttpPost]
-        public async Task<ActionResult> UploadTutorial(int CID, TeacherUploadTutorial tutorial)
+
+        public async Task<ActionResult> UploadTutorial(int cid,[FromBody]TeacherUploadTutorial tutorial)
         {
+           
+            if (!ModelState.IsValid)
+            {
+                return Json(new { success = false, data = "Please Provide Teacher ID" });
+            }
+
+            int CID = cid;
+
             int Auth_ID = Convert.ToInt32(HttpContext.Session.GetString("Subject"));
-            int TeID = Convert.ToInt32(HttpContext.Session.GetString("TeID"));
+            //  int TeID = Convert.ToInt32(HttpContext.Session.GetString("TeID"));
+            int TeID = Convert.ToInt32(tutorial.TeId);
 
             var value = await _context.Teacher
             .Where(x => (x.TeID == TeID && x.AuthID == Auth_ID))
@@ -389,13 +409,17 @@ namespace OnlineSchool.Controllers
 
             if (title_Check != null)
             {
-                return Json(new { success = false, error = "This Title is Already in USE" });
+                return Json(new { success = false, data = "This Title is Already in USE" });
             }
 
+            byte[] imageBytes = Convert.FromBase64String(tutorial.Video);
+            var stream = new MemoryStream(imageBytes);
+            IFormFile Video = new FormFile(stream, 0, tutorial.Video.Length, "name", "Video_Tutorial."+ tutorial.VideoType);
+
             String UploadFolder = Path.Combine(_hostingEnvironment.WebRootPath, "Tutorial");
-            String UniqueFileName = Guid.NewGuid().ToString() + "_" + tutorial.Video.FileName;
+            String UniqueFileName = Guid.NewGuid().ToString() + "_" + Video.FileName;
             String FilePath = Path.Combine(UploadFolder, UniqueFileName);
-            tutorial.Video.CopyTo(new FileStream(FilePath, FileMode.Create));
+            Video.CopyTo(new FileStream(FilePath, FileMode.Create));
 
             var videoTutorial = new Tutorial
             {
@@ -502,13 +526,25 @@ namespace OnlineSchool.Controllers
 
 
         [HeaderAuthorization]
-        [Route("Teacher/Reaction/{TID}/{reaction}")]
-        [HttpGet]
-        public async Task<ActionResult> Like(int TID, int reaction)
+        [Route("Teacher/Reaction")]
+        [HttpPost]
+        public async Task<ActionResult> Like([FromBody] UserReaction tr)
         {
+            if (!ModelState.IsValid)
+            {
+                return Json(new { success = false, data = "Please Post Proper ID" });
+            }
+
+            if (tr.reaction != 1)
+            {
+                if (tr.reaction != -1)
+                {
+                    return Json(new { success = false, data = "Please Post Proper reaction" });
+                }
+            }
 
             int Auth_ID = Convert.ToInt32(HttpContext.Session.GetString("Subject"));
-            int TeID = Convert.ToInt32(HttpContext.Session.GetString("TeID"));
+            int TeID = tr.uid;
 
             var value = await _context.Teacher
                 .Where(x => (x.TeID == TeID && x.AuthID == Auth_ID))
@@ -520,14 +556,14 @@ namespace OnlineSchool.Controllers
             }
 
             var LID = await _context.Teacher_Tutorial_Like
-                .Where(x => (x.TeID == TeID && x.AuthID == Auth_ID && x.TID == TID))
+                .Where(x => (x.TeID == TeID && x.AuthID == Auth_ID && x.TID == tr.TID))
                 .Select(y => new { y.LID }).FirstOrDefaultAsync();
 
             if (LID == null)
             {
                 var like = new Like
                 {
-                    Likes = reaction,
+                    Likes = tr.reaction,
                     AuthID = Auth_ID
                 };
                 _context.Like.Add(like);
@@ -538,7 +574,7 @@ namespace OnlineSchool.Controllers
                 var joiningInsert = new Teacher_Tutorial_Like
                 {
                     TeID = TeID,
-                    TID = TID,
+                    TID = tr.TID,
                     LID = newLID,
                     AuthID = Auth_ID
                 };
@@ -553,7 +589,7 @@ namespace OnlineSchool.Controllers
                     .Where(x => (x.LID == LID.LID && x.AuthID == Auth_ID))
                     .FirstOrDefaultAsync();
 
-                react.Likes = reaction;
+                react.Likes = tr.reaction;
                 await _context.SaveChangesAsync();
 
 
@@ -566,10 +602,10 @@ namespace OnlineSchool.Controllers
         [HeaderAuthorization]
         [Route("Teacher/Comment/{TID}")]
         [HttpPut]
-        public async Task<ActionResult> Comment(int TID, TeacherComment com)
+        public async Task<ActionResult> Comment(int TID, [FromBody] TeacherComment com)
         {
             int Auth_ID = Convert.ToInt32(HttpContext.Session.GetString("Subject"));
-            int TeID = Convert.ToInt32(HttpContext.Session.GetString("TeID"));
+            int TeID = Convert.ToInt32(com.TeID);
 
             var value = await _context.Teacher
               .Where(x => (x.TeID == TeID && x.AuthID == Auth_ID))

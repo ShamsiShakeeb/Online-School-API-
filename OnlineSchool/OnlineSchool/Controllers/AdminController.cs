@@ -18,8 +18,8 @@ using ViewModel;
 namespace OnlineSchool.Controllers
 {
 
-  ////  [ApiController]
-    [Authorize(Roles = "Admin", AuthenticationSchemes = "Admin")]
+    ////  [ApiController]
+  //  [Authorize(Roles = "Admin", AuthenticationSchemes = "Admin")]
     public class AdminController : Controller
     {
 
@@ -87,11 +87,11 @@ namespace OnlineSchool.Controllers
         [Route("Admin/Login")]
         [HttpPost]
 
-        public async Task<ActionResult> Login(AdminLogin admin)
+        public async Task<ActionResult> Login([FromBody] AdminLogin admin)
         {
             if (!ModelState.IsValid)
             {
-                return Json(new { success = false, error = "Login Failed" });
+                return Json(new { success = false, data = "Login Failed" });
             }
 
             int Auth_ID = Convert.ToInt32(HttpContext.Session.GetString("Subject"));
@@ -102,7 +102,7 @@ namespace OnlineSchool.Controllers
 
             if (data == null)
             {
-                return Json(new { success = false, error = "Login Failed" });
+                return Json(new { success = false, data = "Login Failed" });
             }
             else
             {
@@ -124,19 +124,25 @@ namespace OnlineSchool.Controllers
                 HttpContext.Session.SetString("ADID", data.ADID.ToString());
 
 
-                return Json(new { success = true, ReturnURL = "/Admin/Profile" });
+                return Json(new { success = true, data = "/Admin/Profile", UserId = data.ADID.ToString() });
             }
         }
 
 
         [HeaderAuthorization]
-        [Route("Admin/Profile")]
+        [Route("Admin/Profile/{uid}")]
         [HttpGet]
 
-        public async Task<ActionResult> Profile()
+        public async Task<ActionResult> Profile(int? uid)
         {
+            if (uid == null)
+            {
+                return Unauthorized();
+            }
+
             int Auth_ID = Convert.ToInt32(HttpContext.Session.GetString("Subject"));
-            int ADID = Convert.ToInt32(HttpContext.Session.GetString("ADID"));
+            //  int ADID = Convert.ToInt32(HttpContext.Session.GetString("ADID"));
+            int? ADID = uid;
 
             var value = await _context.Admin
                 .Where(x => (x.ADID == ADID && x.AuthID == Auth_ID))
@@ -231,14 +237,20 @@ namespace OnlineSchool.Controllers
         }
 
         [HeaderAuthorization]
-        [Route("Admin/CreateCourse")]
+        [Route("Admin/CreateCourse/{uid}")]
         [HttpPost]
 
-        public async Task<ActionResult> CreateCourse(CreateCourseViewModel create)
+        public async Task<ActionResult> CreateCourse(int? uid, [FromBody]CreateCourseViewModel create)
         {
-
+            if (uid == null)
+            {
+                return Unauthorized();
+            }
+           
             int Auth_ID = Convert.ToInt32(HttpContext.Session.GetString("Subject"));
-            int ADID = Convert.ToInt32(HttpContext.Session.GetString("ADID"));
+            // int ADID = Convert.ToInt32(HttpContext.Session.GetString("ADID"));
+
+            int? ADID = uid;
 
             var value = await _context.Admin
                 .Where(x => (x.ADID == ADID && x.AuthID == Auth_ID))
@@ -252,13 +264,17 @@ namespace OnlineSchool.Controllers
 
             if (!ModelState.IsValid)
             {
-                return Json(new { success = false, error = "Input Mismatch" });
+                return Json(new { success = false, data = "Input Mismatch" });
             }
 
+            byte[] imageBytes = Convert.FromBase64String(create.Photo);
+            var stream = new MemoryStream(imageBytes);
+            IFormFile Photo = new FormFile(stream, 0, create.Photo.Length, "name", "NewCourse.jpg");
+
             String UploadFolder = Path.Combine(_hostingEnvironment.WebRootPath, "Course");
-            String UniqueFileName = Guid.NewGuid().ToString() + "_" + create.Photo.FileName;
+            String UniqueFileName = Guid.NewGuid().ToString() + "_" + Photo.FileName;
             String FilePath = Path.Combine(UploadFolder, UniqueFileName);
-            create.Photo.CopyTo(new FileStream(FilePath, FileMode.Create));
+            Photo.CopyTo(new FileStream(FilePath, FileMode.Create));
 
             var data = new Models.Course
             {
@@ -274,7 +290,7 @@ namespace OnlineSchool.Controllers
 
             var joiningInsert = new Admin_Course
             {
-                ADID = ADID,
+                ADID = Convert.ToInt32(ADID),
                 CID = data.CID,
                 AuthID = Auth_ID
             };
@@ -289,13 +305,13 @@ namespace OnlineSchool.Controllers
 
 
         [HeaderAuthorization]
-        [Route("Admin/TutorialLikeRatio")]
-        [HttpPost]
+        [Route("Admin/TutorialLikeRatio/{adid}")]
+        [HttpGet]
 
-        public async Task<ActionResult> TutorialLikeRatio()
+        public async Task<ActionResult> TutorialLikeRatio(int adid)
         {
             int Auth_ID = Convert.ToInt32(HttpContext.Session.GetString("Subject"));
-            int ADID = Convert.ToInt32(HttpContext.Session.GetString("ADID"));
+            int ADID = adid;
 
             var value = await _context.Admin
                 .Where(x => (x.ADID == ADID && x.AuthID == Auth_ID))
@@ -307,9 +323,10 @@ namespace OnlineSchool.Controllers
             }
 
             var TID = await _context.Tutorial
-                .Where(x => x.AuthID == Auth_ID)
+                .Where(x => x.AuthID == Auth_ID || x.AuthID == Auth_ID*(-1))
                 .Select(y => y)
                 .ToListAsync();
+
 
             List<Tutorial_Details> tutorial_Details = new List<Tutorial_Details>();
 
@@ -318,9 +335,14 @@ namespace OnlineSchool.Controllers
                 int ratio = 0;
 
                 var TeID = await _context.Teacher_Course_Tutorial
-                    .Where(x => (x.TID == TID[i].TID && x.AuthID == Auth_ID))
+                    .Where(x => (x.TID == TID[i].TID && (x.AuthID == Auth_ID || x.AuthID == Auth_ID*-1)))
                     .Select(y => y.TeID)
                     .FirstOrDefaultAsync();
+
+             
+                String TeacherName = await _context.Teacher.Where(x => x.TeID == TeID)
+                    .Select(y=> y.Name).FirstOrDefaultAsync();
+                   
 
                 var LikeRationOfTeacher = await _context.Teacher_Tutorial_Like
                      .Where(x => (x.TID == TID[i].TID && x.AuthID == Auth_ID))
@@ -353,10 +375,12 @@ namespace OnlineSchool.Controllers
                 {
                     TID = TID[i].TID,
                     TeID = TeID,
-                    Title = TID[i].Title,
-                    Description = TID[i].Description,
+                    teacher_Name = TeacherName,
+                    tutorial_Title = TID[i].Title,
+                    tutorial_Description = TID[i].Description,
                     Video_Path = TID[i].Video_Path,
-                    Like_Ratio = ratio
+                    Like_Ratio = ratio,
+                    HideOrUnHide = TID[i].AuthID,
 
                 };
 
@@ -371,15 +395,15 @@ namespace OnlineSchool.Controllers
 
 
         [HeaderAuthorization]
-        [Route("Admin/HideVideo/{TID}")]
+        [Route("Admin/HideVideo/{TID}/{adid}")]
         [HttpPut]
 
-        public async Task<ActionResult> HideVideo(int TID)
+        public async Task<ActionResult> HideVideo(int TID,int adid)
         {
 
 
             int Auth_ID = Convert.ToInt32(HttpContext.Session.GetString("Subject"));
-            int ADID = Convert.ToInt32(HttpContext.Session.GetString("ADID"));
+            int ADID = adid;
 
             var value = await _context.Admin
                 .Where(x => (x.ADID == ADID && x.AuthID == Auth_ID))
@@ -418,15 +442,15 @@ namespace OnlineSchool.Controllers
         /// <returns></returns>
          
         [HeaderAuthorization]
-        [Route("Admin/UnHideVideo/{TID}")]
+        [Route("Admin/UnHideVideo/{TID}/{adid}")]
         [HttpPut]
 
-        public async Task<ActionResult> UnHideVideo(int TID)
+        public async Task<ActionResult> UnHideVideo(int TID , int adid)
         {
 
 
             int Auth_ID = Convert.ToInt32(HttpContext.Session.GetString("Subject"));
-            int ADID = Convert.ToInt32(HttpContext.Session.GetString("ADID"));
+            int ADID = adid;
 
             int authID = Auth_ID * (-1);
 
@@ -499,14 +523,18 @@ namespace OnlineSchool.Controllers
         public int TID { set; get; }
 
         public int TeID { set; get; }
-        public String Title { set; get; }
+        public String tutorial_Title { set; get; }
 
-        public String Description { set; get; }
+        public String tutorial_Description { set; get; }
 
         public String Video_Path { set; get; }
+
+        public String teacher_Name { set; get; }
 
         ///(Like + DisLike)
 
         public int Like_Ratio { set; get; }
+
+        public int HideOrUnHide { set; get; }
     }
 }

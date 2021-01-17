@@ -6,3 +6,39 @@ D:\DotNetProject\Online School\Backend (.NET CORE API)\OnlineSchool\Authorizatio
 D:\DotNetProject\Online School\Backend (.NET CORE API)\OnlineSchool\Authorization\bin\Debug\netstandard2.0\Authorization.pdb
 D:\DotNetProject\Online School\Backend (.NET CORE API)\OnlineSchool\Authorization\obj\Debug\netstandard2.0\Authorization.dll
 D:\DotNetProject\Online School\Backend (.NET CORE API)\OnlineSchool\Authorization\obj\Debug\netstandard2.0\Authorization.pdb
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\Authorization\bin\Debug\netstandard2.0\Authorization.deps.json
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\Authorization\bin\Debug\netstandard2.0\Authorization.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\Authorization\bin\Debug\netstandard2.0\Authorization.pdb
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\Authorization\obj\Debug\netstandard2.0\Authorization.csprojAssemblyReference.cache
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\Authorization\obj\Debug\netstandard2.0\Authorization.AssemblyInfoInputs.cache
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\Authorization\obj\Debug\netstandard2.0\Authorization.AssemblyInfo.cs
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\Authorization\obj\Debug\netstandard2.0\Authorization.csproj.CoreCompileInputs.cache
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\Authorization\obj\Debug\netstandard2.0\Authorization.dll
+C:\Dot Net Projects\Online-School-API-\OnlineSchool\Authorization\obj\Debug\netstandard2.0\Authorization.pdb
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\Authorization\bin\Debug\netstandard2.0\Authorization.deps.json
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\Authorization\bin\Debug\netstandard2.0\Authorization.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\Authorization\bin\Debug\netstandard2.0\Authorization.pdb
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\Authorization\obj\Debug\netstandard2.0\Authorization.csprojAssemblyReference.cache
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\Authorization\obj\Debug\netstandard2.0\Authorization.AssemblyInfoInputs.cache
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\Authorization\obj\Debug\netstandard2.0\Authorization.AssemblyInfo.cs
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\Authorization\obj\Debug\netstandard2.0\Authorization.csproj.CoreCompileInputs.cache
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\Authorization\obj\Debug\netstandard2.0\Authorization.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\OnlineSchool\Authorization\obj\Debug\netstandard2.0\Authorization.pdb
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\Authorization\bin\Debug\netstandard2.0\Authorization.deps.json
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\Authorization\bin\Debug\netstandard2.0\Authorization.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\Authorization\bin\Debug\netstandard2.0\Authorization.pdb
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\Authorization\obj\Debug\netstandard2.0\Authorization.csprojAssemblyReference.cache
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\Authorization\obj\Debug\netstandard2.0\Authorization.AssemblyInfoInputs.cache
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\Authorization\obj\Debug\netstandard2.0\Authorization.AssemblyInfo.cs
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\Authorization\obj\Debug\netstandard2.0\Authorization.csproj.CoreCompileInputs.cache
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\Authorization\obj\Debug\netstandard2.0\Authorization.dll
+C:\Dot Net Projects\Online-School-API-\Online-School-API-\OnlineSchool\Authorization\obj\Debug\netstandard2.0\Authorization.pdb
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\Authorization\obj\Debug\netstandard2.0\Authorization.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\Authorization\obj\Debug\netstandard2.0\Authorization.pdb
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\Authorization\bin\Debug\netstandard2.0\Authorization.deps.json
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\Authorization\bin\Debug\netstandard2.0\Authorization.dll
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\Authorization\bin\Debug\netstandard2.0\Authorization.pdb
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\Authorization\obj\Debug\netstandard2.0\Authorization.csprojAssemblyReference.cache
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\Authorization\obj\Debug\netstandard2.0\Authorization.AssemblyInfoInputs.cache
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\Authorization\obj\Debug\netstandard2.0\Authorization.AssemblyInfo.cs
+E:\My Projects\Final Year Project (MIJU)\Online-School-API-\Online-School-API-\OnlineSchool\Authorization\obj\Debug\netstandard2.0\Authorization.csproj.CoreCompileInputs.cache

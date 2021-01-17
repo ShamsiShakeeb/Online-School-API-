@@ -20,7 +20,13 @@ namespace OnlineSchool
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
-                    webBuilder.UseStartup<Startup>();
+
+                    webBuilder.ConfigureKestrel(options =>
+                    {
+                        options.Limits.MaxRequestBodySize = 209715200;
+                    })
+                    .UseStartup<Startup>();
+
                 });
     }
 }

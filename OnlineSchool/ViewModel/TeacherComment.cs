@@ -9,5 +9,8 @@ namespace ViewModel
     {
         [Required]
         public String Comment { set; get; }
+
+        [Required]
+        public String TeID { set; get; }
     }
 }

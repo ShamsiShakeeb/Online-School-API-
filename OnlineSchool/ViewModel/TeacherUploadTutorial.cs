@@ -8,6 +8,9 @@ namespace ViewModel
 {
   public class TeacherUploadTutorial
     {
+       
+        [Required]
+        public String TeId { set; get; }
 
         [Required]
         [MaxLength(500)]
@@ -15,8 +18,11 @@ namespace ViewModel
         [Required]
         public String Description { set; get; }
         [Required]
-        
-        public IFormFile Video { set; get; }
+        public String Video { set; get; }
+
+        [Required]
+
+        public String VideoType { set; get; }
 
        
 

@@ -21,7 +21,7 @@ namespace ViewModel
         [MaxLength(500)]
         public String Address { set; get; }
         [Required]
-        public IFormFile Photo { set; get; }
+        public string Photo { set; get; }
         [Required]
         [MaxLength(100)]
         public String Password { set; get; }

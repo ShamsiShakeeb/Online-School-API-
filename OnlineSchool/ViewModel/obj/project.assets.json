@@ -587,23 +587,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\User\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\jakas_hos3nlk\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DotNetProject\\Online School\\Backend (.NET CORE API)\\OnlineSchool\\ViewModel\\ViewModel.csproj",
+      "projectUniqueName": "E:\\My Projects\\Final Year Project (MIJU)\\Online-School-API-\\Online-School-API-\\OnlineSchool\\ViewModel\\ViewModel.csproj",
       "projectName": "ViewModel",
-      "projectPath": "D:\\DotNetProject\\Online School\\Backend (.NET CORE API)\\OnlineSchool\\ViewModel\\ViewModel.csproj",
-      "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\DotNetProject\\Online School\\Backend (.NET CORE API)\\OnlineSchool\\ViewModel\\obj\\",
+      "projectPath": "E:\\My Projects\\Final Year Project (MIJU)\\Online-School-API-\\Online-School-API-\\OnlineSchool\\ViewModel\\ViewModel.csproj",
+      "packagesPath": "C:\\Users\\jakas_hos3nlk\\.nuget\\packages\\",
+      "outputPath": "E:\\My Projects\\Final Year Project (MIJU)\\Online-School-API-\\Online-School-API-\\OnlineSchool\\ViewModel\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jakas_hos3nlk\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -652,7 +648,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -9,6 +9,8 @@ namespace ViewModel
     {
         [Required]
         public String Comment { set; get; }
+        [Required]
+        public String SID { set; get; }
 
     }
 }

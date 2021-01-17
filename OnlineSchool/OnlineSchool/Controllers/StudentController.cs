@@ -7,6 +7,7 @@ using Authorization;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -18,7 +19,7 @@ namespace OnlineSchool.Controllers
 {
    
    /// [ApiController]
-    [Authorize(Roles = "Student", AuthenticationSchemes = "Student")]
+  //  [Authorize(Roles = "Student", AuthenticationSchemes = "Student")]
     public class StudentController : Controller
     {
         private readonly DatabaseContext _context;
@@ -33,11 +34,11 @@ namespace OnlineSchool.Controllers
         [AllowAnonymous]
         [HttpPost]
         [Route("Student/Registration")]
-        public async Task<ActionResult> Registration(StudentViewModel studentView)
+        public async Task<ActionResult> Registration([FromBody] StudentViewModel studentView)
         {
             if (!ModelState.IsValid)
             {
-                return Json(new { success = false, error = "Input Formate not Staisfy" });
+                return Json(new { success = false, data = "Input Formate not Staisfy" });
             }
             int Auth_ID = Convert.ToInt32(HttpContext.Session.GetString("Subject"));
 
@@ -47,15 +48,17 @@ namespace OnlineSchool.Controllers
 
             if (verify_Email != null)
             {
-                return Json(new { success = false, error = "This Email is Already in USE" });
+                return Json(new { success = false, data = "This Email is Already in USE" });
             }
 
-
+            byte[] imageBytes = Convert.FromBase64String(studentView.Photo);
+            var stream = new MemoryStream(imageBytes);
+            IFormFile Photo = new FormFile(stream, 0, studentView.Photo.Length, "name", "Student_Profile_Picture.jpg");
 
             String UploadFolder = Path.Combine(_hostingEnvironment.WebRootPath, "StudentProfilePicture");
-            String UniqueFileName = Guid.NewGuid().ToString() + "_" + studentView.Photo.FileName;
+            String UniqueFileName = Guid.NewGuid().ToString() + "_" + Photo.FileName;
             String FilePath = Path.Combine(UploadFolder, UniqueFileName);
-            studentView.Photo.CopyTo(new FileStream(FilePath, FileMode.Create));
+            Photo.CopyTo(new FileStream(FilePath, FileMode.Create));
 
             var data = new Student
             {
@@ -79,11 +82,11 @@ namespace OnlineSchool.Controllers
         [Route("Student/Login")]
         [HttpPost]
         
-        public async Task<ActionResult> Login(StudentLoginViewModel student)
+        public async Task<ActionResult> Login([FromBody]StudentLoginViewModel student)
         {
             if (!ModelState.IsValid)
             {
-                return Json(new { success = false, error = "Login Failed" });
+                return Json(new { success = false, data = "Login Failed" });
             }
 
             int Auth_ID = Convert.ToInt32(HttpContext.Session.GetString("Subject"));
@@ -93,7 +96,7 @@ namespace OnlineSchool.Controllers
                 .FirstOrDefaultAsync();
             if (data == null)
             {
-                return Json(new { success = false, error = "Login Failed" });
+                return Json(new { success = false, data = "Login Failed" });
             }
             else
             {
@@ -115,17 +118,22 @@ namespace OnlineSchool.Controllers
                 HttpContext.Session.SetString("SID", data.SID.ToString());
 
 
-                return Json(new { success = true, ReturnURL = "/Student/Profile" });
+                return Json(new { success = true, data = "/Student/Profile", UserId = data.SID.ToString() });
             }
         }
-
+       
         [HeaderAuthorization]
-        [Route("Student/Profile")]
+        [Route("Student/Profile/{UserId}")]
         [HttpGet]
-        public async Task<ActionResult> Profile()
+        public async Task<ActionResult> Profile(int? UserId)
         {
+            if (UserId == null)
+            {
+                return Unauthorized();
+            }
+
             int Auth_ID = Convert.ToInt32(HttpContext.Session.GetString("Subject"));
-            int SID = Convert.ToInt32(HttpContext.Session.GetString("SID"));
+            int? SID = UserId;
 
             var value = await _context.Student
                 .Where(x => (x.SID == SID && x.AuthID == Auth_ID))
@@ -217,13 +225,25 @@ namespace OnlineSchool.Controllers
         }
 
         [HeaderAuthorization]
-        [Route("Student/Reaction/{TID}/{reaction}")]
-        [HttpGet]
-        public async Task<ActionResult> Like(int TID, int reaction)
+        [Route("Student/Reaction")]
+        [HttpPost]
+        public async Task<ActionResult> Like([FromBody]UserReaction sr)
         {
+            if (!ModelState.IsValid)
+            {
+                return Json(new { success = false, data = "Please Post Proper ID" });
+            }
+
+            if (sr.reaction != 1)
+            {
+                if (sr.reaction != -1)
+                {
+                    return Json(new { success = false, data = "Please Post Proper reaction" });
+                }
+            }
 
             int Auth_ID = Convert.ToInt32(HttpContext.Session.GetString("Subject"));
-            int SID = Convert.ToInt32(HttpContext.Session.GetString("SID"));
+            int SID = sr.uid;
 
             var value = await _context.Student
                 .Where(x => (x.SID == SID && x.AuthID == Auth_ID))
@@ -235,14 +255,14 @@ namespace OnlineSchool.Controllers
             }
 
             var LID = await _context.Student_Tutorial_Like
-                .Where(x => (x.SID == SID && x.AuthID == Auth_ID && x.TID == TID))
+                .Where(x => (x.SID == SID && x.AuthID == Auth_ID && x.TID == sr.TID))
                 .Select(y => new { y.LID }).FirstOrDefaultAsync();
 
             if (LID == null)
             {
                 var like = new Like
                 {
-                    Likes = reaction,
+                    Likes = sr.reaction,
                     AuthID = Auth_ID
                 };
                 _context.Like.Add(like);
@@ -253,7 +273,7 @@ namespace OnlineSchool.Controllers
                 var joiningInsert = new Student_Tutorial_Like
                 {
                     SID = SID,
-                    TID = TID,
+                    TID = sr.TID,
                     LID = newLID,
                     AuthID = Auth_ID
                 };
@@ -268,7 +288,7 @@ namespace OnlineSchool.Controllers
                     .Where(x => (x.LID == LID.LID && x.AuthID == Auth_ID))
                     .FirstOrDefaultAsync();
 
-                react.Likes = reaction;
+                react.Likes = sr.reaction;
                 await _context.SaveChangesAsync();
 
 
@@ -281,10 +301,10 @@ namespace OnlineSchool.Controllers
         [HeaderAuthorization]
         [Route("Student/Comment/{TID}")]
         [HttpPut]
-        public async Task<ActionResult> Comment(int TID, StudentComment com)
+        public async Task<ActionResult> Comment(int TID, [FromBody] StudentComment com)
         {
             int Auth_ID = Convert.ToInt32(HttpContext.Session.GetString("Subject"));
-            int SID = Convert.ToInt32(HttpContext.Session.GetString("SID"));
+            int SID = Convert.ToInt32(com.SID);
 
             var value = await _context.Student
               .Where(x => (x.SID == SID && x.AuthID == Auth_ID))

@@ -15,7 +15,7 @@ namespace ViewModel
         public String Description { set; get; }
      
         [Required]
-        public IFormFile Photo { set; get; }
+        public String Photo { set; get; }
 
         
     }
